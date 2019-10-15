@@ -1,0 +1,12 @@
+Main Game Loop
+
+Start with menu
+
+click a button to go to game state
+
+be able to jump back to main menu
+
+during game state is a game loop
+
+
+CurrentDirectory = os.getcwd()[:35]

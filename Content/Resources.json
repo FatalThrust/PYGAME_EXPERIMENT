@@ -1,0 +1,36 @@
+[
+  {
+    "Copper": {
+      "Generatable": {
+        "Enabled": true,
+        "Images": {
+          "Variant1": "N/A",
+          "Variant2": "N/A",
+          "Variant3": "N/A",
+          "Default": "N/A"
+        }
+      },
+      "Hardness": "1",
+      "Threshold": "0.5",
+      "Scale": "0.32",
+      "Chance": 70
+    }
+  },
+  {
+    "Iron": {
+      "Generatable": {
+        "Enabled": true,
+        "Images": {
+          "Variant1": "N/A",
+          "Variant2": "N/A",
+          "Variant3": "N/A",
+          "Default": "N/A"
+        }
+      },
+      "Hardness": "1",
+      "Threshold": "0.5",
+      "Scale": "0.32",
+      "Chance": 55
+    }
+  }
+]

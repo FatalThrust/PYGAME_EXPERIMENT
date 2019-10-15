@@ -1,0 +1,18 @@
+[
+  {
+    "Drone": {
+      "Health": 20,
+      "Damage": 1,
+      "AttackRate": 0.5,
+      "Name": "Drone",
+      "Images": {
+        "Body": "N/A",
+        "States": {
+          "idle": "empty",
+          "moving": "empty",
+          "shooting": "empty"
+        }
+      }
+    }
+  }
+]
